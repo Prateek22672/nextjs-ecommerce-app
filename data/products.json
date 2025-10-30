@@ -1,0 +1,134 @@
+[
+  {
+    "id": "2",
+    "name": "iPhone 15 Pro",
+    "slug": "iphone-15-pro",
+    "description": "Latest iPhone model",
+    "price": 1299,
+    "category": "Mobile",
+    "inventory": 25,
+    "image": "/images/products/i1.png",
+    "lastUpdated": "2025-01-01T10:00:00Z"
+  },
+  {
+    "id": "3",
+    "name": "AirPods Pro",
+    "slug": "airpods-pro",
+    "description": "Noise cancelling wireless earbuds",
+    "price": 249,
+    "category": "Accessories",
+    "inventory": 40,
+    "image": "/images/products/i2.png",
+    "lastUpdated": "2025-01-01T10:00:00Z"
+  },
+  {
+    "id": "1761820692806",
+    "name": "iPhone 17",
+    "slug": "iphone17",
+    "price": 1499,
+    "description": "A19 Bionic",
+    "category": "Mobile",
+    "inventory": 20,
+    "image": "/images/products/i3.png",
+    "lastUpdated": "2025-10-30T10:56:42.084Z"
+  },
+  {
+    "id": "4",
+    "name": "iPad Pro",
+    "slug": "ipad-pro",
+    "description": "12.9-inch Liquid Retina XDR display",
+    "price": 1099,
+    "category": "Tablets",
+    "inventory": 18,
+    "image": "/images/products/i4.png",
+    "lastUpdated": "2025-01-01T10:00:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Apple Watch Ultra",
+    "slug": "apple-watch-ultra",
+    "description": "Rugged design, extreme performance",
+    "price": 799,
+    "category": "Wearables",
+    "inventory": 15,
+    "image": "/images/products/i5.png",
+    "lastUpdated": "2025-01-01T10:00:00Z"
+  },
+  {
+    "id": "6",
+    "name": "MacBook Air M3",
+    "slug": "macbook-air-m3",
+    "description": "Ultra-light laptop with M3 chip",
+    "price": 1299,
+    "category": "Laptop",
+    "inventory": 12,
+    "image": "/images/products/i6.png",
+    "lastUpdated": "2025-02-15T09:00:00Z"
+  },
+  {
+    "id": "7",
+    "name": "MacBook Pro M3",
+    "slug": "macbook-pro-m3",
+    "description": "Professional laptop powered by M3 chip",
+    "price": 2299,
+    "category": "Laptop",
+    "inventory": 10,
+    "image": "/images/products/i7.png",
+    "lastUpdated": "2025-02-15T09:15:00Z"
+  },
+  {
+    "id": "8",
+    "name": "Apple Vision Pro",
+    "slug": "apple-vision-pro",
+    "description": "Mixed reality headset",
+    "price": 3499,
+    "category": "Wearable",
+    "inventory": 5,
+    "image": "/images/products/i8.png",
+    "lastUpdated": "2025-03-10T11:30:00Z"
+  },
+  {
+    "id": "10",
+    "name": "Magic Keyboard",
+    "slug": "magic-keyboard",
+    "description": "Wireless keyboard with Touch ID",
+    "price": 149,
+    "category": "Accessories",
+    "inventory": 35,
+    "image": "/images/products/i10.png",
+    "lastUpdated": "2025-01-25T09:10:00Z"
+  },
+  {
+    "id": "11",
+    "name": "Apple Pencil 2",
+    "slug": "apple-pencil-2",
+    "description": "Precision stylus for iPad",
+    "price": 129,
+    "category": "Accessories",
+    "inventory": 30,
+    "image": "/images/products/i11.png",
+    "lastUpdated": "2025-02-01T10:20:00Z"
+  },
+  {
+    "id": "12",
+    "name": "iPad Air",
+    "slug": "ipad-air",
+    "description": "Lightweight tablet with M2 chip",
+    "price": 899,
+    "category": "Tablets",
+    "inventory": 22,
+    "image": "/images/products/i12.png",
+    "lastUpdated": "2025-03-01T10:20:00Z"
+  },
+  {
+    "id": "14",
+    "name": "AirTag (4 Pack)",
+    "slug": "airtag-4-pack",
+    "description": "Item tracking devices",
+    "price": 99,
+    "category": "Accessories",
+    "inventory": 45,
+    "image": "/images/products/i14.png",
+    "lastUpdated": "2025-02-18T09:45:00Z"
+  }
+]
